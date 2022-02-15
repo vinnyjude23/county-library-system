@@ -1,6 +1,6 @@
 /*
 county library system
-by Joshua
+by Vincent
 Feb 2022
 MIT License
 c99 compiler
@@ -23,7 +23,7 @@ int main()
 {
     int action;
     printf("county library system\n");
-    printf("welcome Mr Joshua\n");
+    printf("welcome Mr Vincent\n");
     action=menu();
     printf("you selected action %d\n",action);
     return 0;
